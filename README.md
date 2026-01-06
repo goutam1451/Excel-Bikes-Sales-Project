@@ -44,3 +44,5 @@ A data analysis project exploring factors influencing bike purchases using Excel
 - Excel Formulas (`Nested IF`,`SUMIF`, `COUNTIF`, `AVERAGE`,etc.)  
 - Data Visualization  
 - Use of Slicers and Interactivity
+
+  click here to visit dashboard  :https://github.com/goutam1451/Excel-Bikes-Sales-Project/blob/main/Dashbord.png
